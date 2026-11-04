@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/craftdrawers/oak_drawer_4",
+  "textures": {
+    "particle": "craftdrawers:block/drawers_spruce_side",
+    "north": "craftdrawers:block/drawers_spruce_front_4",
+    "south": "craftdrawers:block/drawers_spruce_side",
+    "east": "craftdrawers:block/drawers_spruce_side",
+    "west": "craftdrawers:block/drawers_spruce_side",
+    "up": "minecraft:block/spruce_planks",
+    "down": "minecraft:block/spruce_planks"
+  }
+}

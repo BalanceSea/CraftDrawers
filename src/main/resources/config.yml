@@ -1,0 +1,36 @@
+# 插件提示与菜单文本。编辑 lang/<语言>.yml 后使用 /drawers reload。
+language: zh_CN
+
+database:
+  file: drawers.db
+  busy-timeout-ms: 5000
+
+drawers:
+  empty-count-text: false
+
+protection:
+  territory:
+    enabled: true
+
+display:
+  # 固定展示亮度，避免实体采光原点在抽屉内部而发黑（0~15）。
+  block-light: 15
+  sky-light: 15
+  # 图标/文字距抽屉正面的距离（方块）；物品厚度独立压薄。
+  face-gap: 0.012
+  item-depth: 0.008
+  item-scale:
+    single: 0.36
+    two: 0.26
+    four: 0.24
+  text-scale: 0.32
+
+craft-engine:
+  namespace: craftdrawers
+  item-prefix: drawer_
+  block-prefix: drawer_
+
+automation:
+  hopper-interval-ticks: 8
+  max-transfers-per-run: 32
+  max-drawers-scanned-per-run: 128

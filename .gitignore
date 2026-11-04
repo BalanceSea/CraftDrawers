@@ -1,0 +1,25 @@
+# Gradle and Kotlin build output
+.gradle/
+.kotlin/
+**/build/
+out/
+
+# IDE settings
+.idea/
+*.iml
+
+# Local plugin/server data
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# Local environment files
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

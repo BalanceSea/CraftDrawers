@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/craftdrawers/oak_drawer_2",
+  "textures": {
+    "particle": "craftdrawers:block/drawers_dark_oak_side",
+    "north": "craftdrawers:block/drawers_dark_oak_front_2",
+    "south": "craftdrawers:block/drawers_dark_oak_side",
+    "east": "craftdrawers:block/drawers_dark_oak_side",
+    "west": "craftdrawers:block/drawers_dark_oak_side",
+    "up": "minecraft:block/dark_oak_planks",
+    "down": "minecraft:block/dark_oak_planks"
+  }
+}

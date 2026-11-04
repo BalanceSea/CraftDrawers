@@ -1,0 +1,2199 @@
+recipes:
+  craftdrawers:recipe_drawer_oak_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_oak_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_oak_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_oak_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_oak_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_oak_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_oak_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_oak_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_oak_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_oak_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_oak_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_oak_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_oak_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_oak_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:spruce_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_spruce_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:spruce_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_spruce_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:spruce_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_spruce_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:spruce_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_spruce_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:spruce_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_spruce_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_spruce_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:spruce_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_spruce_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_spruce_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_spruce_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:birch_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_birch_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:birch_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_birch_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:birch_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_birch_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:birch_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_birch_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:birch_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_birch_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_birch_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:birch_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_birch_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_birch_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_birch_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:jungle_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_jungle_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:jungle_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_jungle_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:jungle_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_jungle_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:jungle_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_jungle_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:jungle_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_jungle_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_jungle_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:jungle_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_jungle_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_jungle_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_jungle_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:acacia_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_acacia_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:acacia_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_acacia_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:acacia_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_acacia_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:acacia_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_acacia_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:acacia_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_acacia_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_acacia_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:acacia_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_acacia_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_acacia_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_acacia_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:dark_oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:dark_oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:dark_oak_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:dark_oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:dark_oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_dark_oak_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:dark_oak_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_dark_oak_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_dark_oak_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_dark_oak_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:mangrove_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:mangrove_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:mangrove_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:mangrove_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:mangrove_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_mangrove_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:mangrove_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_mangrove_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_mangrove_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_mangrove_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:cherry_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_cherry_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:cherry_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_cherry_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:cherry_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_cherry_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:cherry_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_cherry_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:cherry_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_cherry_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_cherry_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:cherry_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_cherry_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_cherry_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_cherry_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:bamboo_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:bamboo_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:bamboo_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:bamboo_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:bamboo_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_bamboo_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:bamboo_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_bamboo_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_bamboo_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_bamboo_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:crimson_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_crimson_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:crimson_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_crimson_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:crimson_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_crimson_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:crimson_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_crimson_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:crimson_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_crimson_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_crimson_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:crimson_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_crimson_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_crimson_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_crimson_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_full_1:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:warped_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_full_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_warped_full_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_full_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_full_2:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:warped_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_full_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_warped_full_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_full_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_full_4:
+    type: shaped
+    category: building
+    group: craftdrawers_full_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:warped_planks
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_full_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_warped_full_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_full_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_half_1:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_1
+    pattern:
+      - "PPP"
+      - " C "
+      - "PPP"
+    ingredients:
+      P: minecraft:warped_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_half_1
+      count: 1
+
+  craftdrawers:upgrade_template_from_drawer_warped_half_1:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_half_1
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_half_2:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_2
+    pattern:
+      - "PCP"
+      - "PPP"
+      - "PCP"
+    ingredients:
+      P: minecraft:warped_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_half_2
+      count: 2
+
+  craftdrawers:upgrade_template_from_drawer_warped_half_2:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_half_2
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_drawer_warped_half_4:
+    type: shaped
+    category: building
+    group: craftdrawers_half_drawers_4
+    pattern:
+      - "CPC"
+      - "PPP"
+      - "CPC"
+    ingredients:
+      P: minecraft:warped_slab
+      C: minecraft:chest
+    result:
+      id: craftdrawers:drawer_warped_half_4
+      count: 4
+
+  craftdrawers:upgrade_template_from_drawer_warped_half_4:
+    type: shaped
+    category: misc
+    group: craftdrawers_upgrade_template
+    pattern:
+      - "SSS"
+      - "SDS"
+      - "SSS"
+    ingredients:
+      S: minecraft:stick
+      D: craftdrawers:drawer_warped_half_4
+    result:
+      id: craftdrawers:upgrade_template
+      count: 4
+
+  craftdrawers:recipe_upgrade_storage_obsidian:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:obsidian
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_obsidian
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_copper:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:copper_ingot
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_copper
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_iron:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:iron_ingot
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_iron
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_gold:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:gold_ingot
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_gold
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_emerald:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:emerald
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_emerald
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_diamond:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:diamond
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_diamond
+      count: 1
+
+  craftdrawers:recipe_upgrade_storage_netherite:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:netherite_ingot
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_storage_netherite
+      count: 1
+
+  craftdrawers:recipe_upgrade_one_stack:
+    type: shaped
+    category: equipment
+    pattern:
+      - "SSS"
+      - "MCM"
+      - "SSS"
+    ingredients:
+      M: minecraft:flint
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_one_stack
+      count: 1
+
+  craftdrawers:recipe_upgrade_void:
+    type: shaped
+    category: equipment
+    pattern:
+      - "MMM"
+      - "MCM"
+      - "MMM"
+    ingredients:
+      M: minecraft:obsidian
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_void
+      count: 1
+
+  craftdrawers:recipe_upgrade_hopper:
+    type: shaped
+    category: equipment
+    pattern:
+      - " H "
+      - "SCS"
+      - "SSS"
+    ingredients:
+      H: minecraft:hopper
+      S: minecraft:stick
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:upgrade_hopper
+      count: 1
+
+  craftdrawers:recipe_upgrade_magnet_1:
+    type: shaped
+    category: equipment
+    pattern:
+      - "M/M"
+      - "/H/"
+      - "M/M"
+    ingredients:
+      M: minecraft:copper_ingot
+      /: minecraft:iron_bars
+      H: craftdrawers:upgrade_hopper
+    result:
+      id: craftdrawers:upgrade_magnet_1
+      count: 1
+
+  craftdrawers:recipe_upgrade_magnet_2:
+    type: shaped
+    category: equipment
+    pattern:
+      - "M/M"
+      - "/H/"
+      - "M/M"
+    ingredients:
+      M: minecraft:copper_ingot
+      /: minecraft:iron_bars
+      H: craftdrawers:upgrade_magnet_1
+    result:
+      id: craftdrawers:upgrade_magnet_2
+      count: 1
+
+  craftdrawers:recipe_upgrade_magnet_3:
+    type: shaped
+    category: equipment
+    pattern:
+      - "M/M"
+      - "/H/"
+      - "M/M"
+    ingredients:
+      M: minecraft:copper_ingot
+      /: minecraft:iron_bars
+      H: craftdrawers:upgrade_magnet_2
+    result:
+      id: craftdrawers:upgrade_magnet_3
+      count: 1
+
+  craftdrawers:recipe_drawer_key:
+    type: shaped
+    category: equipment
+    pattern:
+      - "-M"
+      - " M"
+      - " C"
+    ingredients:
+      "-": minecraft:gold_nugget
+      M: minecraft:gold_ingot
+      C: craftdrawers:upgrade_template
+    result:
+      id: craftdrawers:drawer_key
+      count: 1
+
+  craftdrawers:recipe_personal_key:
+    type: shapeless
+    category: equipment
+    ingredients:
+      - craftdrawers:drawer_key
+      - minecraft:name_tag
+    result:
+      id: craftdrawers:personal_key
+      count: 1

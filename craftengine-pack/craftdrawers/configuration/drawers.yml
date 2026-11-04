@@ -1,0 +1,366 @@
+items:
+  craftdrawers:drawer_oak_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_full_1>
+    model: minecraft:block/craftdrawers/oak_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_oak_full_1
+  craftdrawers:drawer_oak_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_full_2>
+    model: minecraft:block/craftdrawers/oak_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_oak_full_2
+  craftdrawers:drawer_oak_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_full_4>
+    model: minecraft:block/craftdrawers/oak_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_oak_full_4
+  craftdrawers:drawer_oak_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_half_1>
+    model: minecraft:block/craftdrawers/oak_drawer_half_1
+  craftdrawers:drawer_oak_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_half_2>
+    model: minecraft:block/craftdrawers/oak_drawer_half_2
+  craftdrawers:drawer_oak_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_oak_half_4>
+    model: minecraft:block/craftdrawers/oak_drawer_half_4
+  craftdrawers:upgrade_storage_obsidian:
+    material: obsidian
+    model: craftdrawers:item/upgrade_storage_obsidian
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_obsidian>
+  craftdrawers:upgrade_storage_copper:
+    material: copper_ingot
+    model: craftdrawers:item/upgrade_storage_copper
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_copper>
+  craftdrawers:upgrade_storage_iron:
+    material: iron_ingot
+    model: craftdrawers:item/upgrade_storage_iron
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_iron>
+  craftdrawers:upgrade_storage_gold:
+    material: gold_ingot
+    model: craftdrawers:item/upgrade_storage_gold
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_gold>
+  craftdrawers:upgrade_storage_emerald:
+    material: emerald
+    model: craftdrawers:item/upgrade_storage_emerald
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_emerald>
+  craftdrawers:upgrade_storage_diamond:
+    material: diamond
+    model: craftdrawers:item/upgrade_storage_diamond
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_diamond>
+  craftdrawers:upgrade_storage_netherite:
+    material: netherite_ingot
+    model: craftdrawers:item/upgrade_storage_netherite
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_storage_netherite>
+  craftdrawers:upgrade_one_stack:
+    material: quartz
+    model: craftdrawers:item/upgrade_one_stack
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_one_stack>
+  craftdrawers:upgrade_void:
+    material: lava_bucket
+    model: craftdrawers:item/upgrade_void
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_void>
+  craftdrawers:upgrade_hopper:
+    material: hopper
+    model: craftdrawers:item/upgrade_hopper
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_hopper>
+  craftdrawers:upgrade_magnet_1:
+    material: iron_nugget
+    model: craftdrawers:item/upgrade_magnet_1
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_magnet_1>
+  craftdrawers:upgrade_magnet_2:
+    material: gold_nugget
+    model: craftdrawers:item/upgrade_magnet_2
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_magnet_2>
+  craftdrawers:upgrade_magnet_3:
+    material: diamond
+    model: craftdrawers:item/upgrade_magnet_3
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_magnet_3>
+  craftdrawers:drawer_key:
+    material: tripwire_hook
+    model: craftdrawers:item/drawer_key
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_key>
+      lore:
+        - "右键点击仓位锁定或解锁"
+  craftdrawers:personal_key:
+    material: tripwire_hook
+    model: craftdrawers:item/personal_key
+    data:
+      item_name: <!i><lang:item.craftdrawers.personal_key>
+      lore:
+        - "右键点击未认领的抽屉，将其设为私人"
+  craftdrawers:upgrade_template:
+    material: paper
+    model: craftdrawers:item/upgrade_template
+    data:
+      item_name: <!i><lang:item.craftdrawers.upgrade_template>
+
+blocks:
+  craftdrawers:drawer_oak_full_1:
+    settings:
+      item: craftdrawers:drawer_oak_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_1
+        east:
+          auto-state: note_block
+          model:
+            path: minecraft:block/craftdrawers/oak_drawer_1
+            y: 90
+        south:
+          auto-state: note_block
+          model:
+            path: minecraft:block/craftdrawers/oak_drawer_1
+            y: 180
+        west:
+          auto-state: note_block
+          model:
+            path: minecraft:block/craftdrawers/oak_drawer_1
+            y: 270
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+  craftdrawers:drawer_oak_full_2:
+    settings:
+      item: craftdrawers:drawer_oak_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+  craftdrawers:drawer_oak_full_4:
+    settings:
+      item: craftdrawers:drawer_oak_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+  craftdrawers:drawer_oak_half_1:
+    settings:
+      item: craftdrawers:drawer_oak_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+  craftdrawers:drawer_oak_half_2:
+    settings:
+      item: craftdrawers:drawer_oak_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+  craftdrawers:drawer_oak_half_4:
+    settings:
+      item: craftdrawers:drawer_oak_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/oak_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/oak_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}

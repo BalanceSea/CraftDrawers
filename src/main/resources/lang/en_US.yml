@@ -1,0 +1,116 @@
+version: 1
+prefix: '<gradient:#00d4ff:#0088ff><bold>CraftDrawers</bold></gradient><dark_gray> » </dark_gray>'
+
+command:
+  description: 'CraftDrawers status, item giving and menu reload'
+  status: '{prefix}<gray>Version <white>{version}</white><gray>, Minecraft <white>{minecraft}</white>.</gray>'
+  unknown-type: '{prefix}<red>Unknown type: </red><white>{type}</white>'
+  item-unavailable: '{prefix}<red>Item unavailable: </red><white>{item}</white><dark_gray> ({type})</dark_gray>'
+  player-only: '{prefix}<red>This command can only be used by a player.</red>'
+  reload-success: '{prefix}<green>Language and menu configuration reloaded.</green>'
+  reload-failed: '{prefix}<red>Configuration reload failed: </red><gray>{error}</gray>'
+
+placement:
+  pack-outdated: '{prefix}<red>The half-drawer CraftEngine configuration is outdated. Update the matching CE pack and reload CraftEngine.</red>'
+
+storage:
+  unavailable: '{prefix}<red>Storage is unavailable: </red><gray>{world} {x}, {y}, {z}</gray>'
+  busy: '{prefix}<yellow>Storage is busy. Try again shortly.</yellow>'
+
+ownership:
+  claimed: '{prefix}<green>You claimed this storage.</green>'
+  already-owned: '{prefix}<red>This storage is already owned by </red><white>{owner}</white><red>.</red>'
+  no-access: '{prefix}<red>You do not have access to this storage.</red>'
+
+protection:
+  territory-denied: '{prefix}<red>You do not have permission to use drawers in this territory.</red>'
+
+slot:
+  locked: '{prefix}<yellow>Locked slot {slot}.</yellow>'
+  unlocked: '{prefix}<green>Unlocked slot {slot}.</green>'
+
+claim:
+  awaiting-confirmation: '{prefix}<yellow>Item delivery is awaiting database confirmation and will retry automatically: </yellow><white>{item}</white><gray> × {remaining}</gray>'
+  inventory-full: '{prefix}<yellow>Not enough inventory space: </yellow><white>{item}</white><gray> {remaining} remaining. Delivery will resume when space is available.</gray>'
+
+upgrade:
+  family-installed: '{prefix}<red>This upgrade family is already installed: </red><white>{upgrade_name}</white>'
+  full: '{prefix}<red>All seven upgrade slots are occupied.</red>'
+  not-upgrade: '{prefix}<red>The cursor item is not an upgrade: </red><white>{item}</white>'
+  cursor-not-empty: '{prefix}<yellow>Clear your cursor before removing this upgrade.</yellow>'
+
+break:
+  unavailable: '{prefix}<red>Storage data is unavailable; breaking cancelled: </red><gray>{world} {x}, {y}, {z}</gray>'
+  owner-only: '{prefix}<red>Only the owner </red><white>{owner}</white><red> can break this storage.</red>'
+  not-empty: '{prefix}<red>Empty this storage before breaking it.</red><gray> Used {used}/{capacity}.</gray>'
+  has-upgrades: '{prefix}<red>Remove all upgrades before breaking this storage.</red>'
+  failed: '{prefix}<red>Could not break this storage: </red><gray>{world} {x}, {y}, {z}</gray>'
+
+gui:
+  upgrades:
+    title: 'Storage Upgrades'
+    empty-name: 'Empty Upgrade Slot'
+    empty-lore:
+      - '<dark_gray>Empty upgrade slot</dark_gray>'
+      - '<gray>Left-click an upgrade in your inventory to pick it up, then left-click this slot to install it.</gray>'
+      - '<dark_gray>Left-click only. Shift-click, number keys, double-click, and dragging are ignored.</dark_gray>'
+    installed-lore:
+      - '<gray>Installed: </gray><green>{upgrade_name}</green>'
+      - '<gray>With an empty cursor, left-click to return this upgrade to your inventory.</gray>'
+      - '<dark_gray>Shift-click, number keys, double-click, and dragging are ignored.</dark_gray>'
+    info-name: 'Upgrade Menu Guide'
+    info-lore:
+      - '<gray>Use left-click only.</gray>'
+      - '<gray>First, left-click an upgrade in your inventory to pick it up onto your cursor.</gray>'
+      - '<gray>Then left-click an empty upgrade slot to install it.</gray>'
+      - '<gray>With an empty cursor, left-click an installed slot to return that upgrade to your inventory.</gray>'
+      - '<dark_gray>Shift-click, number keys, double-click, and dragging are ignored.</dark_gray>'
+    close-name: 'Close'
+    close-lore:
+      - '<gray>Left-click to close this menu.</gray>'
+    session-expired: '{prefix}<yellow>This menu has expired. Please open it again.</yellow>'
+    missing-item-name: 'Unknown Upgrade'
+    missing-item-lore:
+      - '<red>Could not load this upgrade item.</red>'
+      - '<gray>{error}</gray>'
+  contents:
+    title: 'Drawer Management'
+    empty-name: 'Empty Slot'
+    empty-lore:
+      - '<gray>This drawer slot is empty.</gray>'
+    locked-name: 'Locked Empty Slot'
+    locked-lore:
+      - '<gray>The item type lock is retained.</gray>'
+      - '<gray>Access it from the drawer face.</gray>'
+    stored-lore:
+      - '<gray>Stored amount: </gray><white>{amount}</white>'
+      - '<dark_gray>Access items from the drawer face.</dark_gray>'
+    invalid-name: 'Item Data Unavailable'
+    invalid-lore:
+      - '<red>Check the plugin log.</red>'
+    close-name: 'Close'
+    close-lore:
+      - '<gray>Close the drawer management menu.</gray>'
+    read-only-name: 'Stored Items'
+    read-only-lore:
+      - '<gray>Displays the items and counts stored in this drawer.</gray>'
+      - '<gray>Access items by clicking the drawer face.</gray>'
+
+common:
+  none: 'None'
+
+upgrades:
+  names:
+    storage_obsidian: 'Obsidian Storage Upgrade (2x)'
+    storage_copper: 'Copper Storage Upgrade (4x)'
+    storage_iron: 'Iron Storage Upgrade (8x)'
+    storage_gold: 'Gold Storage Upgrade (16x)'
+    storage_emerald: 'Emerald Storage Upgrade (64x)'
+    storage_diamond: 'Diamond Storage Upgrade (256x)'
+    storage_netherite: 'Netherite Storage Upgrade (2048x)'
+    one_stack: 'One Stack Upgrade'
+    void: 'Void Upgrade'
+    hopper: 'Hopper Upgrade'
+    magnet_1: 'Magnet Upgrade I'
+    magnet_2: 'Magnet Upgrade II'
+    magnet_3: 'Magnet Upgrade III'

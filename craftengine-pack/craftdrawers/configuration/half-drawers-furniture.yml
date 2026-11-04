@@ -1,0 +1,3333 @@
+furniture:
+  craftdrawers:drawer_oak_half_1:
+    settings:
+      item: craftdrawers:drawer_oak_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_oak_half_2:
+    settings:
+      item: craftdrawers:drawer_oak_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_oak_half_4:
+    settings:
+      item: craftdrawers:drawer_oak_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_oak_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_spruce_half_1:
+    settings:
+      item: craftdrawers:drawer_spruce_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_spruce_half_2:
+    settings:
+      item: craftdrawers:drawer_spruce_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_spruce_half_4:
+    settings:
+      item: craftdrawers:drawer_spruce_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_spruce_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_birch_half_1:
+    settings:
+      item: craftdrawers:drawer_birch_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_birch_half_2:
+    settings:
+      item: craftdrawers:drawer_birch_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_birch_half_4:
+    settings:
+      item: craftdrawers:drawer_birch_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_birch_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_jungle_half_1:
+    settings:
+      item: craftdrawers:drawer_jungle_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_jungle_half_2:
+    settings:
+      item: craftdrawers:drawer_jungle_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_jungle_half_4:
+    settings:
+      item: craftdrawers:drawer_jungle_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_jungle_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_acacia_half_1:
+    settings:
+      item: craftdrawers:drawer_acacia_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_acacia_half_2:
+    settings:
+      item: craftdrawers:drawer_acacia_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_acacia_half_4:
+    settings:
+      item: craftdrawers:drawer_acacia_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_acacia_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_dark_oak_half_1:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_dark_oak_half_2:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_dark_oak_half_4:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_dark_oak_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_mangrove_half_1:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_mangrove_half_2:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_mangrove_half_4:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_mangrove_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_cherry_half_1:
+    settings:
+      item: craftdrawers:drawer_cherry_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_cherry_half_2:
+    settings:
+      item: craftdrawers:drawer_cherry_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_cherry_half_4:
+    settings:
+      item: craftdrawers:drawer_cherry_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_cherry_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_bamboo_half_1:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_bamboo_half_2:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_bamboo_half_4:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_bamboo_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_crimson_half_1:
+    settings:
+      item: craftdrawers:drawer_crimson_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_crimson_half_2:
+    settings:
+      item: craftdrawers:drawer_crimson_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_crimson_half_4:
+    settings:
+      item: craftdrawers:drawer_crimson_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_crimson_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_warped_half_1:
+    settings:
+      item: craftdrawers:drawer_warped_half_1
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_1
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_warped_half_2:
+    settings:
+      item: craftdrawers:drawer_warped_half_2
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_2
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+
+  craftdrawers:drawer_warped_half_4:
+    settings:
+      item: craftdrawers:drawer_warped_half_4
+    variants:
+      ground:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+      wall_aligned:
+        elements:
+          - type: item_display
+            item: craftdrawers:drawer_warped_half_4
+            display_transform: none
+            yaw: 180
+            position: 0,0.5,0
+        hitboxes:
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: -0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true
+          - type: shulker
+            scale: 0.5
+            peek: 0
+            direction: up
+            position: 0.25,0.5,0.25
+            blocks_building: true
+            can_be_hit_by_projectile: false
+            interactive: true
+            interaction_entity: true
+            invisible: true

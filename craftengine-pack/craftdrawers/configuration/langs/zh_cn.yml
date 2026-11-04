@@ -1,0 +1,157 @@
+lang#items:
+  zh_cn:
+    item.craftdrawers.drawer_oak_full_1: 橡木抽屉（常规，1 格）
+    item.craftdrawers.drawer_oak_full_2: 橡木抽屉（常规，2 格）
+    item.craftdrawers.drawer_oak_full_4: 橡木抽屉（常规，4 格）
+    item.craftdrawers.drawer_oak_half_1: 橡木抽屉（半深度，1 格）
+    item.craftdrawers.drawer_oak_half_2: 橡木抽屉（半深度，2 格）
+    item.craftdrawers.drawer_oak_half_4: 橡木抽屉（半深度，4 格）
+    item.craftdrawers.drawer_spruce_full_1: 云杉抽屉（常规，1 格）
+    item.craftdrawers.drawer_spruce_full_2: 云杉抽屉（常规，2 格）
+    item.craftdrawers.drawer_spruce_full_4: 云杉抽屉（常规，4 格）
+    item.craftdrawers.drawer_spruce_half_1: 云杉抽屉（半深度，1 格）
+    item.craftdrawers.drawer_spruce_half_2: 云杉抽屉（半深度，2 格）
+    item.craftdrawers.drawer_spruce_half_4: 云杉抽屉（半深度，4 格）
+    item.craftdrawers.drawer_birch_full_1: 白桦抽屉（常规，1 格）
+    item.craftdrawers.drawer_birch_full_2: 白桦抽屉（常规，2 格）
+    item.craftdrawers.drawer_birch_full_4: 白桦抽屉（常规，4 格）
+    item.craftdrawers.drawer_birch_half_1: 白桦抽屉（半深度，1 格）
+    item.craftdrawers.drawer_birch_half_2: 白桦抽屉（半深度，2 格）
+    item.craftdrawers.drawer_birch_half_4: 白桦抽屉（半深度，4 格）
+    item.craftdrawers.drawer_jungle_full_1: 丛林抽屉（常规，1 格）
+    item.craftdrawers.drawer_jungle_full_2: 丛林抽屉（常规，2 格）
+    item.craftdrawers.drawer_jungle_full_4: 丛林抽屉（常规，4 格）
+    item.craftdrawers.drawer_jungle_half_1: 丛林抽屉（半深度，1 格）
+    item.craftdrawers.drawer_jungle_half_2: 丛林抽屉（半深度，2 格）
+    item.craftdrawers.drawer_jungle_half_4: 丛林抽屉（半深度，4 格）
+    item.craftdrawers.drawer_acacia_full_1: 金合欢抽屉（常规，1 格）
+    item.craftdrawers.drawer_acacia_full_2: 金合欢抽屉（常规，2 格）
+    item.craftdrawers.drawer_acacia_full_4: 金合欢抽屉（常规，4 格）
+    item.craftdrawers.drawer_acacia_half_1: 金合欢抽屉（半深度，1 格）
+    item.craftdrawers.drawer_acacia_half_2: 金合欢抽屉（半深度，2 格）
+    item.craftdrawers.drawer_acacia_half_4: 金合欢抽屉（半深度，4 格）
+    item.craftdrawers.drawer_dark_oak_full_1: 深色橡木抽屉（常规，1 格）
+    item.craftdrawers.drawer_dark_oak_full_2: 深色橡木抽屉（常规，2 格）
+    item.craftdrawers.drawer_dark_oak_full_4: 深色橡木抽屉（常规，4 格）
+    item.craftdrawers.drawer_dark_oak_half_1: 深色橡木抽屉（半深度，1 格）
+    item.craftdrawers.drawer_dark_oak_half_2: 深色橡木抽屉（半深度，2 格）
+    item.craftdrawers.drawer_dark_oak_half_4: 深色橡木抽屉（半深度，4 格）
+    item.craftdrawers.drawer_mangrove_full_1: 红树抽屉（常规，1 格）
+    item.craftdrawers.drawer_mangrove_full_2: 红树抽屉（常规，2 格）
+    item.craftdrawers.drawer_mangrove_full_4: 红树抽屉（常规，4 格）
+    item.craftdrawers.drawer_mangrove_half_1: 红树抽屉（半深度，1 格）
+    item.craftdrawers.drawer_mangrove_half_2: 红树抽屉（半深度，2 格）
+    item.craftdrawers.drawer_mangrove_half_4: 红树抽屉（半深度，4 格）
+    item.craftdrawers.drawer_cherry_full_1: 樱花木抽屉（常规，1 格）
+    item.craftdrawers.drawer_cherry_full_2: 樱花木抽屉（常规，2 格）
+    item.craftdrawers.drawer_cherry_full_4: 樱花木抽屉（常规，4 格）
+    item.craftdrawers.drawer_cherry_half_1: 樱花木抽屉（半深度，1 格）
+    item.craftdrawers.drawer_cherry_half_2: 樱花木抽屉（半深度，2 格）
+    item.craftdrawers.drawer_cherry_half_4: 樱花木抽屉（半深度，4 格）
+    item.craftdrawers.drawer_bamboo_full_1: 竹子抽屉（常规，1 格）
+    item.craftdrawers.drawer_bamboo_full_2: 竹子抽屉（常规，2 格）
+    item.craftdrawers.drawer_bamboo_full_4: 竹子抽屉（常规，4 格）
+    item.craftdrawers.drawer_bamboo_half_1: 竹子抽屉（半深度，1 格）
+    item.craftdrawers.drawer_bamboo_half_2: 竹子抽屉（半深度，2 格）
+    item.craftdrawers.drawer_bamboo_half_4: 竹子抽屉（半深度，4 格）
+    item.craftdrawers.drawer_crimson_full_1: 绯红菌柄抽屉（常规，1 格）
+    item.craftdrawers.drawer_crimson_full_2: 绯红菌柄抽屉（常规，2 格）
+    item.craftdrawers.drawer_crimson_full_4: 绯红菌柄抽屉（常规，4 格）
+    item.craftdrawers.drawer_crimson_half_1: 绯红菌柄抽屉（半深度，1 格）
+    item.craftdrawers.drawer_crimson_half_2: 绯红菌柄抽屉（半深度，2 格）
+    item.craftdrawers.drawer_crimson_half_4: 绯红菌柄抽屉（半深度，4 格）
+    item.craftdrawers.drawer_warped_full_1: 诡异菌柄抽屉（常规，1 格）
+    item.craftdrawers.drawer_warped_full_2: 诡异菌柄抽屉（常规，2 格）
+    item.craftdrawers.drawer_warped_full_4: 诡异菌柄抽屉（常规，4 格）
+    item.craftdrawers.drawer_warped_half_1: 诡异菌柄抽屉（半深度，1 格）
+    item.craftdrawers.drawer_warped_half_2: 诡异菌柄抽屉（半深度，2 格）
+    item.craftdrawers.drawer_warped_half_4: 诡异菌柄抽屉（半深度，4 格）
+    item.craftdrawers.upgrade_template: 升级模板
+    item.craftdrawers.upgrade_storage_obsidian: 黑曜石容量升级（2 倍）
+    item.craftdrawers.upgrade_storage_copper: 铜容量升级（4 倍）
+    item.craftdrawers.upgrade_storage_iron: 铁容量升级（8 倍）
+    item.craftdrawers.upgrade_storage_gold: 金容量升级（16 倍）
+    item.craftdrawers.upgrade_storage_emerald: 绿宝石容量升级（64 倍）
+    item.craftdrawers.upgrade_storage_diamond: 钻石容量升级（256 倍）
+    item.craftdrawers.upgrade_storage_netherite: 下界合金容量升级（2048 倍）
+    item.craftdrawers.upgrade_one_stack: 单组升级
+    item.craftdrawers.upgrade_void: 虚空升级
+    item.craftdrawers.upgrade_hopper: 漏斗升级
+    item.craftdrawers.upgrade_magnet_1: 磁铁升级 I
+    item.craftdrawers.upgrade_magnet_2: 磁铁升级 II
+    item.craftdrawers.upgrade_magnet_3: 磁铁升级 III
+    item.craftdrawers.drawer_key: 抽屉钥匙
+    item.craftdrawers.personal_key: 私人钥匙
+
+lang#blocks:
+  zh_cn:
+    "block_name:craftdrawers:drawer_oak_full_1": 橡木抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_oak_full_2": 橡木抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_oak_full_4": 橡木抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_oak_half_1": 橡木抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_oak_half_2": 橡木抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_oak_half_4": 橡木抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_spruce_full_1": 云杉抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_spruce_full_2": 云杉抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_spruce_full_4": 云杉抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_spruce_half_1": 云杉抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_spruce_half_2": 云杉抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_spruce_half_4": 云杉抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_birch_full_1": 白桦抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_birch_full_2": 白桦抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_birch_full_4": 白桦抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_birch_half_1": 白桦抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_birch_half_2": 白桦抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_birch_half_4": 白桦抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_jungle_full_1": 丛林抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_jungle_full_2": 丛林抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_jungle_full_4": 丛林抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_jungle_half_1": 丛林抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_jungle_half_2": 丛林抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_jungle_half_4": 丛林抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_acacia_full_1": 金合欢抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_acacia_full_2": 金合欢抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_acacia_full_4": 金合欢抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_acacia_half_1": 金合欢抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_acacia_half_2": 金合欢抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_acacia_half_4": 金合欢抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_dark_oak_full_1": 深色橡木抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_dark_oak_full_2": 深色橡木抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_dark_oak_full_4": 深色橡木抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_dark_oak_half_1": 深色橡木抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_dark_oak_half_2": 深色橡木抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_dark_oak_half_4": 深色橡木抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_mangrove_full_1": 红树抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_mangrove_full_2": 红树抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_mangrove_full_4": 红树抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_mangrove_half_1": 红树抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_mangrove_half_2": 红树抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_mangrove_half_4": 红树抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_cherry_full_1": 樱花木抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_cherry_full_2": 樱花木抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_cherry_full_4": 樱花木抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_cherry_half_1": 樱花木抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_cherry_half_2": 樱花木抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_cherry_half_4": 樱花木抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_bamboo_full_1": 竹子抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_bamboo_full_2": 竹子抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_bamboo_full_4": 竹子抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_bamboo_half_1": 竹子抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_bamboo_half_2": 竹子抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_bamboo_half_4": 竹子抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_crimson_full_1": 绯红菌柄抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_crimson_full_2": 绯红菌柄抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_crimson_full_4": 绯红菌柄抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_crimson_half_1": 绯红菌柄抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_crimson_half_2": 绯红菌柄抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_crimson_half_4": 绯红菌柄抽屉（半深度，4 格）
+    "block_name:craftdrawers:drawer_warped_full_1": 诡异菌柄抽屉（常规，1 格）
+    "block_name:craftdrawers:drawer_warped_full_2": 诡异菌柄抽屉（常规，2 格）
+    "block_name:craftdrawers:drawer_warped_full_4": 诡异菌柄抽屉（常规，4 格）
+    "block_name:craftdrawers:drawer_warped_half_1": 诡异菌柄抽屉（半深度，1 格）
+    "block_name:craftdrawers:drawer_warped_half_2": 诡异菌柄抽屉（半深度，2 格）
+    "block_name:craftdrawers:drawer_warped_half_4": 诡异菌柄抽屉（半深度，4 格）
+
+translations#categories:
+  zh_cn:
+    category.craftdrawers.main: 抽屉与升级

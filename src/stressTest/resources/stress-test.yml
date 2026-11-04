@@ -1,0 +1,10 @@
+enabled: true
+
+# Use a separate disposable world. Test commands refuse to operate in other worlds.
+world-name: craftdrawers-test
+
+max-drawers: 256
+max-area-radius: 64
+placement-batch-per-tick: 2
+max-operations-per-tick: 8
+seed-material: STONE

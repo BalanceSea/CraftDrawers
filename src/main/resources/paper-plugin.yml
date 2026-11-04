@@ -1,0 +1,20 @@
+name: CraftDrawers
+version: '${version}'
+main: sea.balance.craftdrawers.CraftDrawersPlugin
+api-version: '1.21'
+description: StorageDrawers-inspired custom drawers backed by SQLite and CraftEngine.
+authors: [BalanceSea]
+dependencies:
+  server:
+    CraftEngine:
+      load: BEFORE
+      required: true
+      join-classpath: true
+    Residence:
+      load: BEFORE
+      required: false
+      join-classpath: true
+    Dominion:
+      load: BEFORE
+      required: false
+      join-classpath: true

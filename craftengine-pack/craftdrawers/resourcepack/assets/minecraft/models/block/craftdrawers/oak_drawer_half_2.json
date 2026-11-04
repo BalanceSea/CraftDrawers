@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/block",
+  "textures": {
+    "particle": "craftdrawers:block/drawers_oak_side",
+    "front": "craftdrawers:block/drawers_oak_front_2",
+    "side": "craftdrawers:block/drawers_oak_side",
+    "planks": "minecraft:block/oak_planks"
+  },
+  "elements": [
+    {
+      "from": [0, 0, 8],
+      "to": [16, 16, 16],
+      "faces": {
+        "north": {"texture": "#front", "uv": [0, 0, 16, 16]},
+        "south": {"texture": "#side", "uv": [0, 0, 16, 16]},
+        "east": {"texture": "#side", "uv": [0, 0, 8, 16]},
+        "west": {"texture": "#side", "uv": [8, 0, 16, 16]},
+        "up": {"texture": "#planks", "uv": [0, 0, 16, 8]},
+        "down": {"texture": "#planks", "uv": [0, 8, 16, 16]}
+      }
+    }
+  ]
+}

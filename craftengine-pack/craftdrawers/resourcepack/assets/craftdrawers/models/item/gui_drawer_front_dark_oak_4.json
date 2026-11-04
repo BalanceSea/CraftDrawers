@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "craftdrawers:block/drawers_dark_oak_front_4"
+  }
+}

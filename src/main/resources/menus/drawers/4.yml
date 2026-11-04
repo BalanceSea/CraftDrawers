@@ -1,0 +1,72 @@
+Version: 1
+Title: '&8{lang:gui.contents.title}'
+Layout:
+  - '#########'
+  - '##a###b##'
+  - '#########'
+  - '##c###d##'
+  - '#1234567#'
+  - '##`info`###`close`##'
+
+Empty:
+  name: '&7{lang:gui.contents.empty-name}'
+  lore:
+    - '{lang:gui.contents.empty-lore}'
+Locked-Empty:
+  name: '&e{lang:gui.contents.locked-name}'
+  lore:
+    - '{lang:gui.contents.locked-lore}'
+Stored-Lore:
+  - '{lang:gui.contents.stored-lore}'
+Invalid:
+  material: BARRIER
+  name: '&c{lang:gui.contents.invalid-name}'
+  lore:
+    - '{lang:gui.contents.invalid-lore}'
+Upgrade-Icons:
+  Empty:
+    display:
+      material: 'ce:craftdrawers:upgrade_template'
+      name: '&7{lang:gui.upgrades.empty-name}'
+      lore:
+        - '{lang:gui.upgrades.empty-lore}'
+  Installed:
+    name: '&a{upgrade_name}'
+    lore:
+      - '{lang:gui.upgrades.installed-lore}'
+
+Icons:
+  '#':
+    type: decoration
+    display:
+      material: GRAY_STAINED_GLASS_PANE
+      name: ' '
+  a:
+    drawer-slot: 1
+  b:
+    drawer-slot: 2
+  c:
+    drawer-slot: 3
+  d:
+    drawer-slot: 4
+  '1': {upgrade-slot: 1}
+  '2': {upgrade-slot: 2}
+  '3': {upgrade-slot: 3}
+  '4': {upgrade-slot: 4}
+  '5': {upgrade-slot: 5}
+  '6': {upgrade-slot: 6}
+  '7': {upgrade-slot: 7}
+  info:
+    type: info
+    display:
+      material: BOOK
+      name: '{lang:gui.upgrades.info-name}'
+      lore:
+        - '{lang:gui.upgrades.info-lore}'
+  close:
+    type: close
+    display:
+      material: BARRIER
+      name: '{lang:gui.contents.close-name}'
+      lore:
+        - '{lang:gui.contents.close-lore}'

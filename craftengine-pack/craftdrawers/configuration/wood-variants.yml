@@ -1,0 +1,2852 @@
+items:
+  craftdrawers:drawer_spruce_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_full_1>
+    model: minecraft:block/craftdrawers/spruce_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_spruce_full_1
+
+  craftdrawers:drawer_spruce_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_full_2>
+    model: minecraft:block/craftdrawers/spruce_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_spruce_full_2
+
+  craftdrawers:drawer_spruce_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_full_4>
+    model: minecraft:block/craftdrawers/spruce_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_spruce_full_4
+
+  craftdrawers:drawer_spruce_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_half_1>
+    model: minecraft:block/craftdrawers/spruce_drawer_half_1
+
+  craftdrawers:drawer_spruce_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_half_2>
+    model: minecraft:block/craftdrawers/spruce_drawer_half_2
+
+  craftdrawers:drawer_spruce_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_spruce_half_4>
+    model: minecraft:block/craftdrawers/spruce_drawer_half_4
+
+  craftdrawers:drawer_birch_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_full_1>
+    model: minecraft:block/craftdrawers/birch_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_birch_full_1
+
+  craftdrawers:drawer_birch_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_full_2>
+    model: minecraft:block/craftdrawers/birch_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_birch_full_2
+
+  craftdrawers:drawer_birch_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_full_4>
+    model: minecraft:block/craftdrawers/birch_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_birch_full_4
+
+  craftdrawers:drawer_birch_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_half_1>
+    model: minecraft:block/craftdrawers/birch_drawer_half_1
+
+  craftdrawers:drawer_birch_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_half_2>
+    model: minecraft:block/craftdrawers/birch_drawer_half_2
+
+  craftdrawers:drawer_birch_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_birch_half_4>
+    model: minecraft:block/craftdrawers/birch_drawer_half_4
+
+  craftdrawers:drawer_jungle_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_full_1>
+    model: minecraft:block/craftdrawers/jungle_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_jungle_full_1
+
+  craftdrawers:drawer_jungle_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_full_2>
+    model: minecraft:block/craftdrawers/jungle_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_jungle_full_2
+
+  craftdrawers:drawer_jungle_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_full_4>
+    model: minecraft:block/craftdrawers/jungle_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_jungle_full_4
+
+  craftdrawers:drawer_jungle_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_half_1>
+    model: minecraft:block/craftdrawers/jungle_drawer_half_1
+
+  craftdrawers:drawer_jungle_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_half_2>
+    model: minecraft:block/craftdrawers/jungle_drawer_half_2
+
+  craftdrawers:drawer_jungle_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_jungle_half_4>
+    model: minecraft:block/craftdrawers/jungle_drawer_half_4
+
+  craftdrawers:drawer_acacia_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_full_1>
+    model: minecraft:block/craftdrawers/acacia_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_acacia_full_1
+
+  craftdrawers:drawer_acacia_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_full_2>
+    model: minecraft:block/craftdrawers/acacia_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_acacia_full_2
+
+  craftdrawers:drawer_acacia_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_full_4>
+    model: minecraft:block/craftdrawers/acacia_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_acacia_full_4
+
+  craftdrawers:drawer_acacia_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_half_1>
+    model: minecraft:block/craftdrawers/acacia_drawer_half_1
+
+  craftdrawers:drawer_acacia_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_half_2>
+    model: minecraft:block/craftdrawers/acacia_drawer_half_2
+
+  craftdrawers:drawer_acacia_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_acacia_half_4>
+    model: minecraft:block/craftdrawers/acacia_drawer_half_4
+
+  craftdrawers:drawer_dark_oak_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_full_1>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_dark_oak_full_1
+
+  craftdrawers:drawer_dark_oak_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_full_2>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_dark_oak_full_2
+
+  craftdrawers:drawer_dark_oak_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_full_4>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_dark_oak_full_4
+
+  craftdrawers:drawer_dark_oak_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_half_1>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_half_1
+
+  craftdrawers:drawer_dark_oak_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_half_2>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_half_2
+
+  craftdrawers:drawer_dark_oak_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_dark_oak_half_4>
+    model: minecraft:block/craftdrawers/dark_oak_drawer_half_4
+
+  craftdrawers:drawer_mangrove_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_full_1>
+    model: minecraft:block/craftdrawers/mangrove_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_mangrove_full_1
+
+  craftdrawers:drawer_mangrove_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_full_2>
+    model: minecraft:block/craftdrawers/mangrove_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_mangrove_full_2
+
+  craftdrawers:drawer_mangrove_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_full_4>
+    model: minecraft:block/craftdrawers/mangrove_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_mangrove_full_4
+
+  craftdrawers:drawer_mangrove_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_half_1>
+    model: minecraft:block/craftdrawers/mangrove_drawer_half_1
+
+  craftdrawers:drawer_mangrove_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_half_2>
+    model: minecraft:block/craftdrawers/mangrove_drawer_half_2
+
+  craftdrawers:drawer_mangrove_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_mangrove_half_4>
+    model: minecraft:block/craftdrawers/mangrove_drawer_half_4
+
+  craftdrawers:drawer_cherry_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_full_1>
+    model: minecraft:block/craftdrawers/cherry_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_cherry_full_1
+
+  craftdrawers:drawer_cherry_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_full_2>
+    model: minecraft:block/craftdrawers/cherry_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_cherry_full_2
+
+  craftdrawers:drawer_cherry_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_full_4>
+    model: minecraft:block/craftdrawers/cherry_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_cherry_full_4
+
+  craftdrawers:drawer_cherry_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_half_1>
+    model: minecraft:block/craftdrawers/cherry_drawer_half_1
+
+  craftdrawers:drawer_cherry_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_half_2>
+    model: minecraft:block/craftdrawers/cherry_drawer_half_2
+
+  craftdrawers:drawer_cherry_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_cherry_half_4>
+    model: minecraft:block/craftdrawers/cherry_drawer_half_4
+
+  craftdrawers:drawer_bamboo_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_full_1>
+    model: minecraft:block/craftdrawers/bamboo_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_bamboo_full_1
+
+  craftdrawers:drawer_bamboo_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_full_2>
+    model: minecraft:block/craftdrawers/bamboo_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_bamboo_full_2
+
+  craftdrawers:drawer_bamboo_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_full_4>
+    model: minecraft:block/craftdrawers/bamboo_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_bamboo_full_4
+
+  craftdrawers:drawer_bamboo_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_half_1>
+    model: minecraft:block/craftdrawers/bamboo_drawer_half_1
+
+  craftdrawers:drawer_bamboo_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_half_2>
+    model: minecraft:block/craftdrawers/bamboo_drawer_half_2
+
+  craftdrawers:drawer_bamboo_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_bamboo_half_4>
+    model: minecraft:block/craftdrawers/bamboo_drawer_half_4
+
+  craftdrawers:drawer_crimson_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_full_1>
+    model: minecraft:block/craftdrawers/crimson_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_crimson_full_1
+
+  craftdrawers:drawer_crimson_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_full_2>
+    model: minecraft:block/craftdrawers/crimson_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_crimson_full_2
+
+  craftdrawers:drawer_crimson_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_full_4>
+    model: minecraft:block/craftdrawers/crimson_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_crimson_full_4
+
+  craftdrawers:drawer_crimson_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_half_1>
+    model: minecraft:block/craftdrawers/crimson_drawer_half_1
+
+  craftdrawers:drawer_crimson_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_half_2>
+    model: minecraft:block/craftdrawers/crimson_drawer_half_2
+
+  craftdrawers:drawer_crimson_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_crimson_half_4>
+    model: minecraft:block/craftdrawers/crimson_drawer_half_4
+
+  craftdrawers:drawer_warped_full_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_full_1>
+    model: minecraft:block/craftdrawers/warped_drawer_1
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_warped_full_1
+
+  craftdrawers:drawer_warped_full_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_full_2>
+    model: minecraft:block/craftdrawers/warped_drawer_2
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_warped_full_2
+
+  craftdrawers:drawer_warped_full_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_full_4>
+    model: minecraft:block/craftdrawers/warped_drawer_4
+    behavior:
+      type: block_item
+      block: craftdrawers:drawer_warped_full_4
+
+  craftdrawers:drawer_warped_half_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_half_1>
+    model: minecraft:block/craftdrawers/warped_drawer_half_1
+
+  craftdrawers:drawer_warped_half_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_half_2>
+    model: minecraft:block/craftdrawers/warped_drawer_half_2
+
+  craftdrawers:drawer_warped_half_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.drawer_warped_half_4>
+    model: minecraft:block/craftdrawers/warped_drawer_half_4
+
+
+blocks:
+  craftdrawers:drawer_spruce_full_1:
+    settings:
+      item: craftdrawers:drawer_spruce_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_spruce_full_2:
+    settings:
+      item: craftdrawers:drawer_spruce_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_spruce_full_4:
+    settings:
+      item: craftdrawers:drawer_spruce_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_spruce_half_1:
+    settings:
+      item: craftdrawers:drawer_spruce_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_spruce_half_2:
+    settings:
+      item: craftdrawers:drawer_spruce_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_spruce_half_4:
+    settings:
+      item: craftdrawers:drawer_spruce_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/spruce_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/spruce_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_full_1:
+    settings:
+      item: craftdrawers:drawer_birch_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_full_2:
+    settings:
+      item: craftdrawers:drawer_birch_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_full_4:
+    settings:
+      item: craftdrawers:drawer_birch_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_half_1:
+    settings:
+      item: craftdrawers:drawer_birch_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_half_2:
+    settings:
+      item: craftdrawers:drawer_birch_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_birch_half_4:
+    settings:
+      item: craftdrawers:drawer_birch_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/birch_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/birch_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_full_1:
+    settings:
+      item: craftdrawers:drawer_jungle_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_full_2:
+    settings:
+      item: craftdrawers:drawer_jungle_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_full_4:
+    settings:
+      item: craftdrawers:drawer_jungle_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_half_1:
+    settings:
+      item: craftdrawers:drawer_jungle_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_half_2:
+    settings:
+      item: craftdrawers:drawer_jungle_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_jungle_half_4:
+    settings:
+      item: craftdrawers:drawer_jungle_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/jungle_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/jungle_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_full_1:
+    settings:
+      item: craftdrawers:drawer_acacia_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_full_2:
+    settings:
+      item: craftdrawers:drawer_acacia_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_full_4:
+    settings:
+      item: craftdrawers:drawer_acacia_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_half_1:
+    settings:
+      item: craftdrawers:drawer_acacia_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_half_2:
+    settings:
+      item: craftdrawers:drawer_acacia_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_acacia_half_4:
+    settings:
+      item: craftdrawers:drawer_acacia_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/acacia_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/acacia_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_full_1:
+    settings:
+      item: craftdrawers:drawer_dark_oak_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_full_2:
+    settings:
+      item: craftdrawers:drawer_dark_oak_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_full_4:
+    settings:
+      item: craftdrawers:drawer_dark_oak_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_half_1:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_half_2:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_dark_oak_half_4:
+    settings:
+      item: craftdrawers:drawer_dark_oak_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/dark_oak_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/dark_oak_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_full_1:
+    settings:
+      item: craftdrawers:drawer_mangrove_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_full_2:
+    settings:
+      item: craftdrawers:drawer_mangrove_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_full_4:
+    settings:
+      item: craftdrawers:drawer_mangrove_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_half_1:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_half_2:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_mangrove_half_4:
+    settings:
+      item: craftdrawers:drawer_mangrove_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/mangrove_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/mangrove_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_full_1:
+    settings:
+      item: craftdrawers:drawer_cherry_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_full_2:
+    settings:
+      item: craftdrawers:drawer_cherry_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_full_4:
+    settings:
+      item: craftdrawers:drawer_cherry_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_half_1:
+    settings:
+      item: craftdrawers:drawer_cherry_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_half_2:
+    settings:
+      item: craftdrawers:drawer_cherry_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_cherry_half_4:
+    settings:
+      item: craftdrawers:drawer_cherry_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/cherry_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/cherry_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_full_1:
+    settings:
+      item: craftdrawers:drawer_bamboo_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_full_2:
+    settings:
+      item: craftdrawers:drawer_bamboo_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_full_4:
+    settings:
+      item: craftdrawers:drawer_bamboo_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_half_1:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_half_2:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_bamboo_half_4:
+    settings:
+      item: craftdrawers:drawer_bamboo_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/bamboo_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/bamboo_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_full_1:
+    settings:
+      item: craftdrawers:drawer_crimson_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_full_2:
+    settings:
+      item: craftdrawers:drawer_crimson_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_full_4:
+    settings:
+      item: craftdrawers:drawer_crimson_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_half_1:
+    settings:
+      item: craftdrawers:drawer_crimson_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_half_2:
+    settings:
+      item: craftdrawers:drawer_crimson_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_crimson_half_4:
+    settings:
+      item: craftdrawers:drawer_crimson_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/crimson_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/crimson_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_full_1:
+    settings:
+      item: craftdrawers:drawer_warped_full_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_full_2:
+    settings:
+      item: craftdrawers:drawer_warped_full_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_full_4:
+    settings:
+      item: craftdrawers:drawer_warped_full_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_half_1:
+    settings:
+      item: craftdrawers:drawer_warped_half_1
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_half_1
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_1", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_1", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_1", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_half_2:
+    settings:
+      item: craftdrawers:drawer_warped_half_2
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_half_2
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_2", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_2", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_2", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}
+
+  craftdrawers:drawer_warped_half_4:
+    settings:
+      item: craftdrawers:drawer_warped_half_4
+      hardness: 2.0
+      resistance: 3.0
+      is-suffocating: true
+      is-redstone-conductor: true
+      push-reaction: block
+      instrument: bass
+      tags: ["minecraft:mineable/axe"]
+      sounds:
+        break: minecraft:block.wood.break
+        fall: minecraft:block.wood.fall
+        hit: minecraft:block.wood.hit
+        place: minecraft:block.wood.place
+        step: minecraft:block.wood.step
+    state:
+      properties:
+        facing:
+          type: horizontal_direction
+          default: north
+      appearances:
+        north:
+          auto-state: note_block
+          model: minecraft:block/craftdrawers/warped_drawer_half_4
+        east:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_4", y: 90}
+        south:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_4", y: 180}
+        west:
+          auto-state: note_block
+          model: {path: "minecraft:block/craftdrawers/warped_drawer_half_4", y: 270}
+      variants:
+        facing=north: {appearance: north}
+        facing=east: {appearance: east}
+        facing=south: {appearance: south}
+        facing=west: {appearance: west}

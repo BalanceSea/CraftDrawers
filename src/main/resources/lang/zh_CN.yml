@@ -1,0 +1,116 @@
+version: 1
+prefix: '<gradient:#00d4ff:#0088ff><bold>CraftDrawers</bold></gradient><dark_gray> » </dark_gray>'
+
+command:
+  description: 'CraftDrawers 状态、物品给予与界面重载'
+  status: '{prefix}<gray>版本 <white>{version}</white><gray>，Minecraft <white>{minecraft}</white>。</gray>'
+  unknown-type: '{prefix}<red>未知类型：</red><white>{type}</white>'
+  item-unavailable: '{prefix}<red>物品不可用：</red><white>{item}</white><dark_gray>（{type}）</dark_gray>'
+  player-only: '{prefix}<red>该命令只能由玩家执行。</red>'
+  reload-success: '{prefix}<green>语言与菜单配置已重新加载。</green>'
+  reload-failed: '{prefix}<red>配置重新加载失败：</red><gray>{error}</gray>'
+
+placement:
+  pack-outdated: '{prefix}<red>半深抽屉的 CraftEngine 配置尚未更新，请更新配套 CE 包并重载 CraftEngine。</red>'
+
+storage:
+  unavailable: '{prefix}<red>储物数据暂不可用：</red><gray>{world} {x}, {y}, {z}</gray>'
+  busy: '{prefix}<yellow>抽屉正忙，请稍后重试。</yellow>'
+
+ownership:
+  claimed: '{prefix}<green>你已认领此抽屉。</green>'
+  already-owned: '{prefix}<red>此抽屉已由 </red><white>{owner}</white><red> 认领。</red>'
+  no-access: '{prefix}<red>你没有权限访问此抽屉。</red>'
+
+protection:
+  territory-denied: '{prefix}<red>你没有权限在此领地内操作抽屉。</red>'
+
+slot:
+  locked: '{prefix}<yellow>已锁定第 {slot} 格。</yellow>'
+  unlocked: '{prefix}<green>已解锁第 {slot} 格。</green>'
+
+claim:
+  awaiting-confirmation: '{prefix}<yellow>物品领取正在等待数据库确认，将自动重试：</yellow><white>{item}</white><gray> × {remaining}</gray>'
+  inventory-full: '{prefix}<yellow>背包空间不足：</yellow><white>{item}</white><gray> 剩余 {remaining}，有空间时会自动补发。</gray>'
+
+upgrade:
+  family-installed: '{prefix}<red>同类升级已安装：</red><white>{upgrade_name}</white>'
+  full: '{prefix}<red>七个升级槽已全部占用。</red>'
+  not-upgrade: '{prefix}<red>光标中的物品不是升级：</red><white>{item}</white>'
+  cursor-not-empty: '{prefix}<yellow>请先清空光标，再卸下此升级。</yellow>'
+
+break:
+  unavailable: '{prefix}<red>储物数据不可用，已取消破坏：</red><gray>{world} {x}, {y}, {z}</gray>'
+  owner-only: '{prefix}<red>只有所有者 </red><white>{owner}</white><red> 可以破坏此抽屉。</red>'
+  not-empty: '{prefix}<red>破坏前请先清空抽屉。</red><gray> 已用 {used}/{capacity}。</gray>'
+  has-upgrades: '{prefix}<red>破坏前请先移除所有升级。</red>'
+  failed: '{prefix}<red>无法破坏此抽屉：</red><gray>{world} {x}, {y}, {z}</gray>'
+
+gui:
+  upgrades:
+    title: '抽屉升级'
+    empty-name: '空升级槽'
+    empty-lore:
+      - '<dark_gray>空升级槽</dark_gray>'
+      - '<gray>左键背包中的升级拾取到光标，再左键此槽安装。</gray>'
+      - '<dark_gray>仅支持左键；Shift、数字键、双击、拖拽均不处理。</dark_gray>'
+    installed-lore:
+      - '<gray>已安装：</gray><green>{upgrade_name}</green>'
+      - '<gray>光标为空时左键，将升级取出到背包。</gray>'
+      - '<dark_gray>Shift、数字键、双击、拖拽均不处理。</dark_gray>'
+    info-name: '升级菜单说明'
+    info-lore:
+      - '<gray>只使用左键操作。</gray>'
+      - '<gray>先在玩家背包左键拾取升级，使其跟随光标。</gray>'
+      - '<gray>再左键空升级槽完成安装。</gray>'
+      - '<gray>已安装槽左键且光标为空时，升级会取出到背包。</gray>'
+      - '<dark_gray>Shift、数字键、双击、拖拽均不处理。</dark_gray>'
+    close-name: '关闭'
+    close-lore:
+      - '<gray>左键关闭菜单。</gray>'
+    session-expired: '{prefix}<yellow>此菜单已失效，请重新打开。</yellow>'
+    missing-item-name: '未知升级'
+    missing-item-lore:
+      - '<red>无法加载升级物品。</red>'
+      - '<gray>{error}</gray>'
+  contents:
+    title: '抽屉管理'
+    empty-name: '空仓位'
+    empty-lore:
+      - '<gray>此仓位尚未存入物品。</gray>'
+    locked-name: '已锁定的空仓位'
+    locked-lore:
+      - '<gray>类型锁定仍保留。</gray>'
+      - '<gray>存取请在抽屉正面操作。</gray>'
+    stored-lore:
+      - '<gray>仓内数量：</gray><white>{amount}</white>'
+      - '<dark_gray>存取请在抽屉正面操作。</dark_gray>'
+    invalid-name: '物品数据无法读取'
+    invalid-lore:
+      - '<red>请检查插件日志。</red>'
+    close-name: '关闭'
+    close-lore:
+      - '<gray>关闭抽屉管理界面。</gray>'
+    read-only-name: '仓内物品'
+    read-only-lore:
+      - '<gray>此界面仅展示抽屉中的物品与数量。</gray>'
+      - '<gray>在抽屉正面点击仓位进行存取。</gray>'
+
+common:
+  none: '无'
+
+upgrades:
+  names:
+    storage_obsidian: '黑曜石容量升级（2 倍）'
+    storage_copper: '铜容量升级（4 倍）'
+    storage_iron: '铁容量升级（8 倍）'
+    storage_gold: '金容量升级（16 倍）'
+    storage_emerald: '绿宝石容量升级（64 倍）'
+    storage_diamond: '钻石容量升级（256 倍）'
+    storage_netherite: '下界合金容量升级（2048 倍）'
+    one_stack: '单组升级'
+    void: '虚空升级'
+    hopper: '漏斗升级'
+    magnet_1: '磁铁升级 I'
+    magnet_2: '磁铁升级 II'
+    magnet_3: '磁铁升级 III'

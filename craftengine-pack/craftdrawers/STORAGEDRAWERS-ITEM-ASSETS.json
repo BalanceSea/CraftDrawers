@@ -1,0 +1,285 @@
+{
+  "schema_version": 1,
+  "repository": "https://github.com/jaquadro/StorageDrawers",
+  "revision": "3af5f8e81e381b3aa4c58113362e57b69c3e7e8a",
+  "license": "MIT",
+  "license_file": "STORAGEDRAWERS-LICENSE.txt",
+  "license_source_sha256": "0b59d262ceba4892b08700d3a5039f1bd7e455ab1cefad5049609e1d555abe8d",
+  "model_changes": "Adapt item filenames and storagedrawers texture namespace; preserve vanilla generated/handheld parents.",
+  "models": [
+    {
+      "item_id": "craftdrawers:upgrade_storage_obsidian",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/obsidian_storage_upgrade.json",
+      "source_git_blob_sha1": "772843beeac990af2fd7f8709033bb4018b5d372",
+      "source_sha256": "1580bedd29bf2383068952dac30ec94e428bcd98207d116c00c4b427b9f2f15e",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_obsidian.json",
+      "sha256": "c1a9f863697a15b1cf1119c83ad548a111339b2f33c7615e46aec34a9d585a70"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_copper",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/copper_storage_upgrade.json",
+      "source_git_blob_sha1": "9c6bf6e494102eb1d7269196c4b02e8a980381e6",
+      "source_sha256": "8d153990245121686af0995451ddd9504ac387d241ede71cf5f5a5aed5106012",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_copper.json",
+      "sha256": "d4c38f1a693dfe700c2ba28e4c75bb57414561207f6a3b774c447237ca55a42a"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_iron",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/iron_storage_upgrade.json",
+      "source_git_blob_sha1": "22db9a6d2e8def0d269f2191364aa34bb07061fc",
+      "source_sha256": "234f3c7153be41b8fb5bd07147bba7a416e56fe7ece466c0d2fa34f4f2f13e98",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_iron.json",
+      "sha256": "34b12ea316179f58588b990aab2364da32d9cfa8a19d00ec2eee9403e2a8918a"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_gold",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/gold_storage_upgrade.json",
+      "source_git_blob_sha1": "7596bb57f938a39dbfbef38503507aef65335a74",
+      "source_sha256": "c57f443c559a3c9574a46012e549a0ad04c1b36f6a4ec822450f301d650a857b",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_gold.json",
+      "sha256": "951458bae3f5e9365afb2873ddea59c524f3546d372dd38aaa8ee53fecc5b3ee"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_emerald",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/emerald_storage_upgrade.json",
+      "source_git_blob_sha1": "dba2e77305f74ce7fd78a9fa7d9e0d24f0f821ad",
+      "source_sha256": "baab306f248e489802c2b7019bcf0357e6245385dde11f4f14cde9c1144088a9",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_emerald.json",
+      "sha256": "682883baf1f7a2696f2ebe5d2781cf34a9b88319f95aca2872daf6497116d518"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_diamond",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/diamond_storage_upgrade.json",
+      "source_git_blob_sha1": "9aa53869f4f65875704e3a6580b180e2198bd562",
+      "source_sha256": "1f5e06a07004c97198c93bbbc100c784961fd02ab52ceccd509f592b95aca3da",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_diamond.json",
+      "sha256": "a73b7972228d38b149f08b1ec9f503ef1d8ec4178e4afdc7b3395ec7f9c2cbfb"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_storage_netherite",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/netherite_storage_upgrade.json",
+      "source_git_blob_sha1": "8ca399214496fe20bf3d736a79c01bcec1e45cc9",
+      "source_sha256": "4b817cbfdcd8cf80de17cef462a3c170d85acb44f4332e364cd4a047a4eb6dde",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_storage_netherite.json",
+      "sha256": "019d57691a0d2422691f4298b89c12e0053e6a58ed70f74e770dfcaffeb2bc8f"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_one_stack",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/one_stack_upgrade.json",
+      "source_git_blob_sha1": "945c2548582e8dc4e476d1538a9cf940db31eca8",
+      "source_sha256": "3f1dd00aab498e493f9844268660c57b72b24c19da89b13b88801dd2bfce348d",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_one_stack.json",
+      "sha256": "0ca63b38f7839aa9148e6c7e32087096c0f75d810cfd0eab72f3f454b1a7a881"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_void",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/void_upgrade.json",
+      "source_git_blob_sha1": "32ac7d072783789d856f23e7c14b7b0c6ffb4465",
+      "source_sha256": "67b484155f4efcbcd1fbfb6c1252e18473110ed7f08d86f94e789d1005c813ef",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_void.json",
+      "sha256": "7784a1c5f5ee7ff61cda0d074e6eeb59652421857109e46a66e7e7eafed0cd16"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_hopper",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/hopper_upgrade.json",
+      "source_git_blob_sha1": "30eec0b9e4c0bba98b0b00da1a2de4a23e28b586",
+      "source_sha256": "6ea9201b21b2b0943df3efa29ffa71f1a6149daa60933c3e756fcc2b5e608865",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_hopper.json",
+      "sha256": "7d41bc37e76724926b8e8f249aac91434547eb82814b13325e03a4c1bc496e2e"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_magnet_1",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/magnet_upgrade.json",
+      "source_git_blob_sha1": "2da6782cde2db5e2880a4da79b6575a0de2f64c9",
+      "source_sha256": "b64a547c08d72f0c01aad3584e40b410934861b1e64905c892afa9e046100759",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_magnet_1.json",
+      "sha256": "8968a20fd17aaae2ff3b2305a7be36e56c85a5d0742664b00263fa4613809899"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_magnet_2",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/magnet_upgrade_2.json",
+      "source_git_blob_sha1": "d26f150e86ab814725665cfa5d541360d3623b96",
+      "source_sha256": "bddd560a1a0f30dd6904a25ae013b9235ba89972af971914e2e04d300d9860c1",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_magnet_2.json",
+      "sha256": "742c17b974e708857216be536287916e53fb4975c767d6d39543e93727eba5ac"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_magnet_3",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/magnet_upgrade_3.json",
+      "source_git_blob_sha1": "e590e137b693208d8765992218837197ce4b06c9",
+      "source_sha256": "e4a41990a85cb9c0effe3df026b0aee13b292ea74c234c061031248438b8ffb0",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_magnet_3.json",
+      "sha256": "8cd7bb6a71100c11822fb81b734bcf6796ca255d0c922084bd97a60fbb30acd0"
+    },
+    {
+      "item_id": "craftdrawers:drawer_key",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/drawer_key.json",
+      "source_git_blob_sha1": "c28a061334d7b1816585776cc8d17df674bd587d",
+      "source_sha256": "009f96e217c69680e081f6282a530bba781f703a4f2eb37f824dc4e294acbd3c",
+      "file": "resourcepack/assets/craftdrawers/models/item/drawer_key.json",
+      "sha256": "8c429a59d3432a04d2740e0f10009a2bc2cb7625845d252a094527d9ac60fca4"
+    },
+    {
+      "item_id": "craftdrawers:personal_key",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/personal_key.json",
+      "source_git_blob_sha1": "0a3b928c13bf477cae0075a498f3f24562ba87ee",
+      "source_sha256": "fefc132e14f70b65fb3b6cfb99f894a2e377339342d8081cb4abda4756afe732",
+      "file": "resourcepack/assets/craftdrawers/models/item/personal_key.json",
+      "sha256": "d0a46aa3171cc083c5f4bc3af4ea6fa344a9d91f33d4f34c37223821f4085167"
+    },
+    {
+      "item_id": "craftdrawers:upgrade_template",
+      "source": "common/src/main/resources/assets/storagedrawers/models/item/upgrade_template.json",
+      "source_git_blob_sha1": "7d4aceb5cea04c2d06216dc1724a7d199e0e5924",
+      "source_sha256": "476ecfa785e83d4be53b0b0a0f2b5688b7e44a60a13594f8ddde6bcc465c2223",
+      "file": "resourcepack/assets/craftdrawers/models/item/upgrade_template.json",
+      "sha256": "5cfa784dab6bdb826ef59764b7e65cf66ed68ad892a9558b862b6694bfa4da59"
+    }
+  ],
+  "textures": [
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/drawer_key.png",
+      "source_git_blob_sha1": "115fddd889f63632047da4be45b928532096032c",
+      "file": "resourcepack/assets/craftdrawers/textures/item/drawer_key.png",
+      "sha256": "ac1b9bcccd941528358745b31e802638914ad7827aadab77b56e4a293bfd7c15",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/drawer_key_personal_default.png",
+      "source_git_blob_sha1": "1b36446fe81d22a3b8a6db4adda15160eb3f84f2",
+      "file": "resourcepack/assets/craftdrawers/textures/item/drawer_key_personal_default.png",
+      "sha256": "8ef8f7f256cc3f2929dfd91445dd330fea8ddf6009232cd889d34068f082c3a3",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_copper.png",
+      "source_git_blob_sha1": "6117a47169a4749b31665391eb36da2b6cc42df0",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_copper.png",
+      "sha256": "1d93d8e11dd5cbef83af7b37b005ec30acace5acf32265dd8bfe83157e0d2a35",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_diamond.png",
+      "source_git_blob_sha1": "98bced1a564b1ef880762077a35ff3014f0d7043",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_diamond.png",
+      "sha256": "d63378493cbe445b819e49120879102baa5ccacd2c3f03d7592f068a4cbed422",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_emerald.png",
+      "source_git_blob_sha1": "baa8fd9a0b46b36118a359ec4790d8c540ee8c70",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_emerald.png",
+      "sha256": "8121afa732b2ef5fa40fc10d0a3b96be23b492a6545fc6c7a4ad2cfb4a1c7490",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_flint.png",
+      "source_git_blob_sha1": "322579ace2662a26da222418a060a9fd0cd9438e",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_flint.png",
+      "sha256": "25af77a2f08e056c865197ac47a30c54ce72c51105f2a19875336f597bb6ce09",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_gold.png",
+      "source_git_blob_sha1": "be74af028a881383edee3968230d0ff380effdd4",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_gold.png",
+      "sha256": "5bdd13fe99fb4904b858018a0fa13e29e009abc142bb4aa5c64758bb9ee3013a",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_hopper.png",
+      "source_git_blob_sha1": "2561d063634ab1728544f1fcfc32f5058f2fb668",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_hopper.png",
+      "sha256": "1ba2beddc9a0c3d5a51c32118c04f3816065f9c4fd00747fc997cf8c926b3734",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_iron.png",
+      "source_git_blob_sha1": "cb2b3c05c02381afe184acb7f5380e0b1be6c2e6",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_iron.png",
+      "sha256": "3fdd9862953b2a013007e5f0ec6657d8f5263a00de6fcc6fa87cc8e8886fa8f6",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_magnet_1.png",
+      "source_git_blob_sha1": "88461e55ccbb0cdb9d9ef611c65f87c58bfab31a",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_magnet_1.png",
+      "sha256": "4cb63cf4ba44547b89998c165aac97b2d0b90db166de97dc48c2e67412c240fb",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_magnet_2.png",
+      "source_git_blob_sha1": "f9e246fa756240a49e9f37a320d99a255c2e49c7",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_magnet_2.png",
+      "sha256": "6abb37a5215c8052d5d56f42d1bc8712ef791ec231e4a1c8e9f131de95ded4d4",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_magnet_3.png",
+      "source_git_blob_sha1": "68a3bf1e91fd26f5110dcc99871dcabc2ee8ff5d",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_magnet_3.png",
+      "sha256": "dd3913cfadfd62f83075a8b04331c741a9b0f0d021278a66e42d4c22c6859a68",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_netherite.png",
+      "source_git_blob_sha1": "3712c763e0f766bd5498f9336d7c9c18f128766c",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_netherite.png",
+      "sha256": "283227703309bc76bd738b5b4496fb229b4f7493b758bed0fc1e872cc262410b",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_obsidian.png",
+      "source_git_blob_sha1": "99dac62bb6611f21f6e5babbf4e3f4d3251a72c3",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_obsidian.png",
+      "sha256": "d802a5611444f6ab2e718c4ecaf4f55ead22c85fb1bac7837120f85cd515ace3",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_template.png",
+      "source_git_blob_sha1": "371b2413ad508d589225c0eaeccafba3829fc77e",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_template.png",
+      "sha256": "0cc0f67583dd21f06bbb108e138bb4520c87253d6fc8756a148328efd11694e5",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    },
+    {
+      "source": "common/src/main/resources/assets/storagedrawers/textures/item/upgrade_void.png",
+      "source_git_blob_sha1": "1b42f61461c09d65c5e315e90d5cbf407b213528",
+      "file": "resourcepack/assets/craftdrawers/textures/item/upgrade_void.png",
+      "sha256": "4f168d035b40f2fcddf111f8cb1b9d43bc11a898dd2d69f2c3af1f827be4ba12",
+      "width": 16,
+      "height": 16,
+      "modified": false
+    }
+  ]
+}

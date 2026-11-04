@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/craftdrawers/oak_drawer_half_2",
+  "textures": {
+    "particle": "craftdrawers:block/drawers_birch_side",
+    "front": "craftdrawers:block/drawers_birch_front_2",
+    "side": "craftdrawers:block/drawers_birch_side",
+    "planks": "minecraft:block/birch_planks"
+  }
+}

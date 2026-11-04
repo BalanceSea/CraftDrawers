@@ -1,0 +1,198 @@
+items:
+  craftdrawers:gui_drawer_oak_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_oak_1
+
+  craftdrawers:gui_drawer_oak_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_oak_2
+
+  craftdrawers:gui_drawer_oak_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_oak_4
+
+  craftdrawers:gui_drawer_spruce_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_spruce_1
+
+  craftdrawers:gui_drawer_spruce_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_spruce_2
+
+  craftdrawers:gui_drawer_spruce_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_spruce_4
+
+  craftdrawers:gui_drawer_birch_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_birch_1
+
+  craftdrawers:gui_drawer_birch_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_birch_2
+
+  craftdrawers:gui_drawer_birch_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_birch_4
+
+  craftdrawers:gui_drawer_jungle_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_jungle_1
+
+  craftdrawers:gui_drawer_jungle_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_jungle_2
+
+  craftdrawers:gui_drawer_jungle_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_jungle_4
+
+  craftdrawers:gui_drawer_acacia_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_acacia_1
+
+  craftdrawers:gui_drawer_acacia_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_acacia_2
+
+  craftdrawers:gui_drawer_acacia_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_acacia_4
+
+  craftdrawers:gui_drawer_dark_oak_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_dark_oak_1
+
+  craftdrawers:gui_drawer_dark_oak_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_dark_oak_2
+
+  craftdrawers:gui_drawer_dark_oak_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_dark_oak_4
+
+  craftdrawers:gui_drawer_mangrove_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_mangrove_1
+
+  craftdrawers:gui_drawer_mangrove_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_mangrove_2
+
+  craftdrawers:gui_drawer_mangrove_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_mangrove_4
+
+  craftdrawers:gui_drawer_cherry_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_cherry_1
+
+  craftdrawers:gui_drawer_cherry_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_cherry_2
+
+  craftdrawers:gui_drawer_cherry_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_cherry_4
+
+  craftdrawers:gui_drawer_bamboo_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_bamboo_1
+
+  craftdrawers:gui_drawer_bamboo_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_bamboo_2
+
+  craftdrawers:gui_drawer_bamboo_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_bamboo_4
+
+  craftdrawers:gui_drawer_crimson_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_crimson_1
+
+  craftdrawers:gui_drawer_crimson_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_crimson_2
+
+  craftdrawers:gui_drawer_crimson_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_crimson_4
+
+  craftdrawers:gui_drawer_warped_1:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_warped_1
+
+  craftdrawers:gui_drawer_warped_2:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_warped_2
+
+  craftdrawers:gui_drawer_warped_4:
+    material: paper
+    data:
+      item_name: <!i><lang:item.craftdrawers.gui_background>
+    model: craftdrawers:item/gui_drawer_front_warped_4
